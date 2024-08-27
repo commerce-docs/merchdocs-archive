@@ -1,8 +1,6 @@
 ---
 ee_only: true
 title: CyberSource - Deprecated
-redirect_to:
-  - https://marketplace.magento.com/catalogsearch/result/?q=cybersource
 ---
 
 {:.bs-callout-warning}

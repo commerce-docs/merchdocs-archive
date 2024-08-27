@@ -1,7 +1,5 @@
 ---
 title: Browser Capabilities Detection
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-browser-capabilities-detection.html
 ---
 
 Like most websites and applications on the Internet, Magento requires that the visitor's browser allow both cookies and JavaScript for full operations. However, occasionally a user's browser is set to the highest privacy setting that prevents both cookies and JavaScript. Your store can be configured to test the capabilities of each visitor's browser and display a notice if the settings need to be changed.

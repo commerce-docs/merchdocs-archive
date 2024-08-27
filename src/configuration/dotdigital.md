@@ -1,7 +1,5 @@
 ---
 title: dotdigital
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/Dotdigital
 ---
 
 The dotdigital configuration settings can be found in **System** > **Configuration** > **dotdigital**.

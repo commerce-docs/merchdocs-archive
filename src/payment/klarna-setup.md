@@ -1,7 +1,5 @@
 ---
 title: Setting Up Klarna
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/KlarnaOfficial
 ---
 
 To offer your customers the benefit of paying with Klarna, you must first sign up for a Klarna account and gain access to the Klarna Merchant Portal. Then, complete the Klarna configuration from the Admin of your Magento store.

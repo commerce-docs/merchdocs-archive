@@ -1,7 +1,5 @@
 ---
 title: Adding Users
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html
 ---
 
 When your store is first installed, a default Admin account is created with login credentials that give you full administrative access. As a best practice, one of the first things you should do is to create another user account with full Administrator access. That way, you can use one account for your everyday Administrative activities, and reserve the other as a "Super Admin" account in case you forget your regular credentials or they somehow become unusable.

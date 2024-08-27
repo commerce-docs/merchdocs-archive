@@ -1,8 +1,6 @@
 ---
 title: Authorize.Net - Deprecated
 tag: payments-deprecated
-redirect_to:
-  - https://commercemarketplace.adobe.com/catalogsearch/result/?q=authorize.net
 ---
 
 {:.bs-callout-warning}

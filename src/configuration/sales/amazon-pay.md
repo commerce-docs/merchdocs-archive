@@ -1,7 +1,5 @@
 ---
 title: Amazon Pay
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/AmazonPay
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > [Payment Methods]({% link configuration/sales/payment-methods.md %}) > Amazon Pay

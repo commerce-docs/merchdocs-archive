@@ -1,7 +1,5 @@
 ---
 title: Join the Conversation
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/start/resources/resources.html
 ---
 
 Keep up with the latest news from the ecosystem, and connect with other merchants and developers on social media networks.

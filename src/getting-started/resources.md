@@ -1,7 +1,5 @@
 ---
 title: Resources
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/start/resources/resources.html
 ---
 
 Magento provides a wealth of business and technical resources, self-help tools, and services to help you succeed.

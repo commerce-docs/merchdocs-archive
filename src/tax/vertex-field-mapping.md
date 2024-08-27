@@ -1,7 +1,5 @@
 ---
 title: Vertex Field Mapping
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/taxes.html
 ---
 
 

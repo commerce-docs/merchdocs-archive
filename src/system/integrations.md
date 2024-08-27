@@ -1,7 +1,5 @@
 ---
 title: Integrations
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/systems/integrations.html
 ---
 
 Establishes the location of [OAuth][1]{:target="_blank"} credentials and redirect URL for third-party integrations, and identifies the available API resources that are needed for the integration.

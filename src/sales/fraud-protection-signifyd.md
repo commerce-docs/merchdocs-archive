@@ -1,7 +1,5 @@
 ---
 title: Signifyd Guaranteed Fraud Protection - Deprecated
-redirect_to:
-  - https://commercemarketplace.adobe.com/signifyd-module-connect.html
 ---
 
 {:.bs-callout-warning}

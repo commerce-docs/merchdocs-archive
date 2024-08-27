@@ -5,21 +5,21 @@ source 'https://rubygems.org'
 gem 'devdocs', git: 'https://github.com/commerce-docs/devdocs-theme.git'
 
 gem 'jekyll'
-gem 'whatsup_github'
+# gem 'whatsup_github'
 
 group :test do
   gem 'html-proofer'
   gem 'launchy'
-  gem 'mdl'
+  # gem 'mdl'
 end
 
-group :optimization do
-  gem 'image_optim'
-  gem 'image_optim_pack'
-end
+# group :optimization do
+#   gem 'image_optim'
+#   gem 'image_optim_pack'
+# end
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia'
+  # gem 'jekyll-algolia'
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
 end

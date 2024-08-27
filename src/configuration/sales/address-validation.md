@@ -1,7 +1,5 @@
 ---
 title: Vertex Address Validation
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/Vertexinc949
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > Address Validation

@@ -1,7 +1,5 @@
 ---
 title: Klarna
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/KlarnaOfficial
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > [Payment Methods]({% link configuration/sales/payment-methods.md %}) > Klarna

@@ -1,7 +1,5 @@
 ---
 title: Import Guidelines
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html#import-guidelines
 ---
 
 ## New Entities

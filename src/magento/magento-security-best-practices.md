@@ -1,8 +1,6 @@
 ---
 title: Security Best Practices
 group: operations
-redirect_to:
-  - https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf
 ---
 
 All eCommerce sites are attractive targets to hackers because of the personal and payment information that is required to complete a sale. Even if the system does not directly process credit card transactions, a compromised site might reroute customers to a false page, or alter an order before it is transmitted to the payment processor.

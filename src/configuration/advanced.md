@@ -1,7 +1,5 @@
 ---
 title: Advanced
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/config/guide-overview.html
 ---
 
 The Advanced configuration settings can be found in **Stores** > **Configuration** > **Advanced**.

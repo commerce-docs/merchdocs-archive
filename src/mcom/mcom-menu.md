@@ -1,8 +1,6 @@
 ---
 ee_only: true
 title: MCOM Menu
-redirect_to:
-  - https://omsdocs.magento.com/integration/connector/#mcom-menu
 ---
 
 If you use the Magento Order Management System (OMS) with Magento Commerce an **MCOM** option is available in the left menu of the  Magento Commerce Admin.

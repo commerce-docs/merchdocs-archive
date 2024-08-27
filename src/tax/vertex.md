@@ -1,7 +1,5 @@
 ---
 title: Vertex Cloud
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/taxes.html
 ---
 
 Vertex is a cloud-based solution that automates your sales and use tax compliance, and generates a signature-ready PDF for your monthly returns. To get started, you need a Vertex account, then complete configuration settings.

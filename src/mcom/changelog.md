@@ -1,8 +1,6 @@
 ---
 ee_only: true
 title: Changelog
-redirect_to:
-  - https://omsdocs.magento.com/integration/connector/#changelog
 ---
 
 Changelog allows you to quickly navigate to the Connector changelog for up-to-date feature and product change information.

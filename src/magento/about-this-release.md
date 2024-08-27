@@ -1,8 +1,6 @@
 ---
 title: About This Release
 group: getting-started
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/start/about-this-release.html
 ---
 
 As a best practice, we recommend that you keep your Magento installation up to date, so you can benefit from the latest advancements. Release notes provide a detailed description of the changes in each product release, with links to additional technical information, installation instructions, and support resources. To learn more about current and past releases, see:

@@ -1,7 +1,5 @@
 ---
 title: Customer Engagement Reporting
-redirect_to:
-  - https://support.dotdigital.com/en/collections/5610169-magento-open-source-and-adobe-commerce
 ---
 
 The Customer Engagement section of the Reports menu provides data import and report options for [dotdigital]({% link marketing/dotdigital/engagement-cloud.md -%}).

@@ -1,7 +1,5 @@
 ---
 title: Your Vertex Account
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/taxes.html
 ---
 
 Vertex offers three pricing plans, plus access to additional services. All Vertex accounts include tiered pricing and award-winning customer support, but without extra fees for fees or annual transaction estimations. Do not hesitate to contact Vertex if you need help choosing the right [pricing plan][1] for your business. Then, sign up for an account on Vertex Cloud.

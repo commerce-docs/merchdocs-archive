@@ -1,7 +1,5 @@
 ---
 title: VAT ID Validation
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/vat.html#vat-id-validation
 ---
 
 _VAT ID Validation_ automatically calculates the required tax for B2B transactions that take place within the European Union (EU), based on the merchant and customer locale. Magento performs VAT ID validation using the web services of the [European Commission][1] server.

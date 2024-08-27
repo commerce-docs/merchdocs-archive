@@ -1,7 +1,5 @@
 ---
 title: Braintree
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/payments/braintree.html
 ---
 
 {:.bs-callout-warning}

@@ -1,7 +1,5 @@
 ---
 title: Setting Up Amazon Pay
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/AmazonPay
 ---
 
 Amazon Pay and Login with Amazon work together to create a great buyer experience. For more information, see the [Amazon Pay and Login with Amazon extension for Magento 2][1] documentation provided by Amazon.

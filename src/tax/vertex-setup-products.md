@@ -1,7 +1,5 @@
 ---
 title: Vertex Products
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/taxes.html
 ---
 
 Products with tax exceptions can be entered individually through your Vertex dashboard, or uploaded from a [CSV file]({% link system/data-csv.md %}) to Vertex Cloud. Each product is then mapped to appropriate tax category in the Vertex tax code hierarchy. Vertex Cloud uses a product's tax category to apply the current rate and rule changes that are mandated by each jurisdiction.

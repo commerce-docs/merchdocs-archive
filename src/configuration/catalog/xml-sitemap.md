@@ -1,7 +1,5 @@
 ---
 title: XML Sitemap
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Catalog]({% link configuration/catalog.md %}) > XML Sitemap

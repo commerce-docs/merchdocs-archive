@@ -1,7 +1,5 @@
 ---
 title: Google API
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/config/sales/delivery-methods.html
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > Google API

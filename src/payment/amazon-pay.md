@@ -1,7 +1,5 @@
 ---
 title: Amazon Pay
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/AmazonPay
 ---
 
 Amazon Pay and Login with Amazon offer your customers a secure and convenient way to pay that is easy to set up, and that helps to increase conversions and sales. Customers who log in to your store with their Amazon credentials can speed through checkout using the payment and shipping information that is already stored in their Amazon accounts.

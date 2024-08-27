@@ -1,8 +1,6 @@
 ---
 ee_only: true
 title: CyberSource (Deprecated)
-redirect_to:
-  - https://marketplace.magento.com/catalogsearch/result/?q=cybersource
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > [Payment Methods]({% link configuration/sales/payment-methods.md %}) > CyberSource (Deprecated)

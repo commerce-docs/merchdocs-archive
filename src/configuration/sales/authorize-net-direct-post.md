@@ -1,7 +1,5 @@
 ---
 title: Authorize.Net Direct Post - Deprecated
-redirect_to:
-  - https://commercemarketplace.adobe.com/catalogsearch/result/?q=authorize.net
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > [Payment Methods]({% link configuration/sales/payment-methods.md %}) > Authorize.Net Direct Post (Deprecated)

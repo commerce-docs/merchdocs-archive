@@ -1,7 +1,5 @@
 ---
 title: Creating a Shipment
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/shipments.html#create-a-shipment
 ---
 
 The following instructions walk you through the process of creating a shipment for [Magento Shipping]({% link shipping/magento-shipping.md %}). If you have Inventory Management enabled, you may want to review [Creating Shipments with Inventory Management]({% link catalog/inventory-shipment-create.md %}).

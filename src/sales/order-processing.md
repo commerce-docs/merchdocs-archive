@@ -1,7 +1,5 @@
 ---
 title: Processing an Order
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order
 ---
 
 When a customer places an order, the order is created as a temporary record of the transaction and initially has a status of `Pending`.  It can be edited or canceled until payment starts processing. The _Orders_ grid lists all orders, regardless of where they are in the [workflow]({% link sales/order-workflow.md %}). To learn how to help customers with an existing order, see [Updating an Order]({% link sales/order-update.md %}).

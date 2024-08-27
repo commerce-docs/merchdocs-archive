@@ -1,7 +1,5 @@
 ---
 title: Fraud Protection
-redirect_to:
-  - https://commercemarketplace.adobe.com/signifyd-module-connect.html
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > Fraud Protection

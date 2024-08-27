@@ -1,8 +1,6 @@
 ---
 ee_only: true
 title: Worldpay
-redirect_to:
-  - https://commercemarketplace.adobe.com/sapient-module-worldpay.html
 ---
 
 Stores > Settings > [Configuration]({% link stores/configuration.md %}) > [Sales]({% link configuration/sales.md %}) > [Payment Methods]({% link configuration/sales/payment-methods.md %}) > Worldpay

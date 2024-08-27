@@ -1,7 +1,5 @@
 ---
 title: Authorize.Net Direct Post - Deprecated
-redirect_to:
-  - https://commercemarketplace.adobe.com/catalogsearch/result/?q=authorize.net
 ---
 
 {:.bs-callout-warning}

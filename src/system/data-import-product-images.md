@@ -1,7 +1,5 @@
 ---
 title: Importing Product Images
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import-product-images.html
 ---
 
 Multiple product images of each type can be imported into Magento, and associated with a specific product. The path and file name of each product image is entered in the CSV file, and the image files to be imported are uploaded to the corresponding path on the Magento server or external server.

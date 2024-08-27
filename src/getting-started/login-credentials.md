@@ -1,7 +1,5 @@
 ---
 title: Your Login Credentials
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/start/login-urls.html
 ---
 
 Before you proceed with setup and configuration, make sure that you have the information that you need to access the Admin of your store and your Magento account.

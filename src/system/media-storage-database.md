@@ -1,7 +1,5 @@
 ---
 title: Using a Database
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage-database.html
 ---
 
 By default, all images, compiled CSS files, and compiled JavaScript files of the Magento instance are stored in the file system on the web server. You can choose to store these files in a database on a database server. One advantage of this approach is the option of automatic synchronization and reverse synchronization between the web server file system and the database. You can use the default database to store media or create a new one. To be able to use a newly created database as media storage, you must add information about it and its access credentials to the `env.php` file.

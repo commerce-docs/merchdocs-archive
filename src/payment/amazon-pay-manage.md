@@ -1,7 +1,5 @@
 ---
 title: Managing Amazon Pay Transactions
-redirect_to:
-  - https://commercemarketplace.adobe.com/partner/AmazonPay
 ---
 
 All purchases made in your store and processed by Amazon Pay can be viewed from the Amazon Pay website. If you receive a request for a refund, follow the normal Magento process to issue a [credit memo]({% link sales/credit-memos.md %}) and make a refund. The _Credit Memo_ option is available after a sales order is invoiced.

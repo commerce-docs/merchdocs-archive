@@ -1,7 +1,5 @@
 ---
 title: Vertex Customer Exceptions
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/taxes.html
 ---
 
 Under certain circumstances, customers who are normally required to pay taxes might be certified as exempt. The available exceptions vary, depending on the jurisdiction.

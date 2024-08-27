@@ -1,7 +1,5 @@
 ---
 title: General
-redirect_to:
-  - https://experienceleague.adobe.com/docs/commerce-admin/config/guide-overview.html
 ---
 
 The General configuration settings can be found in **Stores** > **Settings** > **Configuration** > **General**.
