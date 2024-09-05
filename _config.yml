@@ -1,12 +1,12 @@
 # This file sets default project configuration for the User Guides website generator
 # See default Jekyll configuration at https://jekyllrb.com/docs/configuration/default/
 
-title: Adobe Commerce 2.3 User Guide
+title: Adobe Commerce 2.3 User Guide (Archived)
 
 description: Merchant-focused documentation for both Adobe Commerce and Magento Open Source
 logo: Commerce User Guide
 baseurl: /user-guide/v2.3
-url: "https://docs.magento.com"
+
 destination: _site/user-guide/v2.3
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -18,15 +18,6 @@ plugins_dir: ./_plugins
 
 version: 2.3
 
-algolia:
-  application_id: E642SEDTHL
-  index_name: merchdocs-23
-  
-  api_key: d2d0f33ab73e291ef8d88d8b565e754c #gitleaks:allow
-
-google:
-  gtm: GTM-KRCLXBB
-
 defaults:
   -
     scope:
@@ -34,10 +25,8 @@ defaults:
     values:
       layout: default
       lang: en
-      github_link: true
-      feedback_link: true
-      github_repo: https://github.com/magento/merchdocs/
-      github_files: https://github.com/magento/merchdocs/blob/2.3-production/
+      github_link: false
+      feedback_link: false
 
   -
     scope:

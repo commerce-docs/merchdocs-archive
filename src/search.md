@@ -1,3 +1,3 @@
 ---
-layout: search
+layout: search_lunr
 ---
