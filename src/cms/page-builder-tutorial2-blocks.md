@@ -409,6 +409,3 @@ Because this dynamic block is visible only to members of a specific customer seg
 **Congratulations!** You have completed the Part 3 of the Block tutorial. Make sure to keep your work for reference.
 
 When you are ready, proceed to [Tutorial 3: Catalog Content]({% link cms/page-builder-tutorial3-catalog-content.md %})
-
-[1]: https://developers.google.com/maps/documentation/javascript/get-api-key
-[2]: https://docs.magento.com/m2/downloads/simple-page-assets.zip

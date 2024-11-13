@@ -47,13 +47,13 @@ Magento 2.0.18 was the final 2.0.x release. After March 2018, Magento 2.0.x stop
 [1]: https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.0Commerce.html
 [2]: https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.0OpenSource.html
 [3]: https://magento.com/products/community-edition
-[4]: https://docs.magento.com/m2/pdf/ee/Magento-Enterprise-Edition-2.1-User-Guide.pdf
-[5]: https://docs.magento.com/m2/pdf/ce/Magento-Community-Edition-2.1-User-Guide.pdf
-[6]: https://docs.magento.com/m2/pdf/ce/Magento-Open-Source-2.2-User-Guide.pdf
-[7]: https://docs.magento.com/m2/pdf/ee/Magento_Commerce_2.2_User_Guide.pdf
-[8]: https://docs.magento.com/m2/pdf/b2b/Magento-for-B2B-Commerce-2.2-User-Guide.pdf
-[9]: https://docs.magento.com/m2/pdf/ce/Magento_Community_Edition_2.0_User_Guide.pdf
-[10]: https://docs.magento.com/m2/pdf/ee/Magento_Enterprise_Edition_2.0_User_Guide.pdf
-[18]: https://docs.magento.com/m2/pdf/ee/Magento-Commerce-2.3-User-Guide.pdf
-[19]: https://docs.magento.com/m2/pdf/b2b/Magento-for-B2B-Commerce-2.3-User-Guide.pdf
-[20]: https://docs.magento.com/m2/pdf/ce/Magento-Open-Source-2.3-User-Guide.pdf
+[4]: {% link assets/downloads/pdf/ee/Magento-Enterprise-Edition-2.1-User-Guide.pdf %}
+[5]: {% link assets/downloads/pdf/ce/Magento-Community-Edition-2.1-User-Guide.pdf %}
+[6]: {% link assets/downloads/pdf/ce/Magento-Open-Source-2.2-User-Guide.pdf %}
+[7]: {% link assets/downloads/pdf/ee/Magento_Commerce_2.2_User_Guide.pdf %}
+[8]: {% link assets/downloads/pdf/b2b/Magento-for-B2B-Commerce-2.2-User-Guide.pdf %}
+[9]: {% link assets/downloads/pdf/ce/Magento_Community_Edition_2.0_User_Guide.pdf %}
+[10]: {% link assets/downloads/pdf/ee/Magento_Enterprise_Edition_2.0_User_Guide.pdf %}
+[18]: {% link assets/downloads/pdf/ee/Magento-Commerce-2.3-User-Guide.pdf %}
+[19]: {% link assets/downloads/pdf/b2b/Magento-for-B2B-Commerce-2.3-User-Guide.pdf %}
+[20]: {% link assets/downloads/pdf/ce/Magento-Open-Source-2.3-User-Guide.pdf %}

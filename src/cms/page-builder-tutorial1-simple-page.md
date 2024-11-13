@@ -22,7 +22,7 @@ Verify the required Content Management configuration settings:
 
 ### Download the image assets that are needed to complete the example page
 
-1. Download the [`simple-page-assets`][1] file and save the file to your local system.
+1. Download the [`simple-page-assets`]({% link assets/downloads/simple-page-assets.zip %}) file and save the file to your local system.
 
 1. Navigate to the downloaded file and extract the zipped files.
 
@@ -632,5 +632,3 @@ With all three rows complete, the final step is to rearrange the rows to match t
 **Congratulations!** You have completed Part 3 of the Simple Page tutorial. Keep the work that you created, so you can refer to it later.
 
 Wen you are ready, proceed to [Tutorial 2: Blocks]({% link cms/page-builder-tutorial2-blocks.md %})
-
-[1]: https://docs.magento.com/m2/downloads/simple-page-assets.zip
