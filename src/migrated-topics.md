@@ -3,9 +3,11 @@ title: Migrated topics (v2.4)
 layout: full-width
 ---
 
-The following 1011 topics have been migrated from *https://docs.magento.com* and redirected.
+## User guide
 
-## Catalog   {#catalog}
+The following 1011 user guide topics have been migrated from *https://docs.magento.com* and redirected.
+
+### Catalog   {#catalog}
 
 1. **About Order Status and Reservations** (*/user-guide/catalog/inventory-about-order-status-reservation.html*) has moved to [Adobe Experience League][1]
 2. **About Product Types** (*/user-guide/catalog/inventory-about-product-types.html*) has moved to [Adobe Experience League][2]
@@ -143,7 +145,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 134. **Virtual Product** (*/user-guide/catalog/product-create-virtual.html*) has moved to [Adobe Experience League][122]
 135. **Watermarks** (*/user-guide/catalog/product-image-watermarks.html*) has moved to [Adobe Experience League][123]
 
-## Configuration Reference   {#configuration-reference}
+### Configuration Reference   {#configuration-reference}
 
 1. **2FA** (*/user-guide/configuration/security/2fa.html*) has moved to [Adobe Experience League][124]
 2. **3D Secure** (*/user-guide/configuration/sales/3d-secure.html*) has moved to [Adobe Experience League][125]
@@ -221,7 +223,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 74. **Wish List** (*/user-guide/configuration/customers/wishlist.html*) has moved to [Adobe Experience League][187]
 75. **XML Sitemap** (*/user-guide/configuration/catalog/xml-sitemap.html*) has moved to [Adobe Experience League][188]
 
-## Content   {#content}
+### Content   {#content}
 
 1. **Add Content - Block** (*/user-guide/cms/page-builder-add-content-block.html*) has moved to [Adobe Experience League][189]
 2. **Add Content - Dynamic Block** (*/user-guide/cms/page-builder-add-dynamic-block.html*) has moved to [Adobe Experience League][190]
@@ -327,7 +329,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 102. **Widgets** (*/user-guide/cms/widgets.html*) has moved to [Adobe Experience League][282]
 103. **Workspace Controls** (*/user-guide/cms/pages-workspace.html*) has moved to [Adobe Experience League][283]
 
-## Customers   {#customers}
+### Customers   {#customers}
 
 1. **Account Dashboard** (*/user-guide/customers/account-dashboard.html*) has moved to [Adobe Experience League][284]
 2. **Account Information** (*/user-guide/customers/account-dashboard-account-information.html*) has moved to [Adobe Experience League][285]
@@ -406,7 +408,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 75. **Updating a Company Profile** (*/user-guide/customers/account-company-update.html*) has moved to [Adobe Experience League][347]
 76. **Updating a Customer Profile** (*/user-guide/customers/customer-account-update.html*) has moved to [Adobe Experience League][348]
 
-## Getting Started   {#getting-started}
+### Getting Started   {#getting-started}
 
 1. **About This Release** (*/user-guide/magento/about-this-release.html*) has moved to [Adobe Experience League][349]
 2. **Accessibility** (*/user-guide/catalog/navigation-accessibility.html*) has moved to [Adobe Experience League][350]
@@ -491,7 +493,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 81. **Your Commerce Account** (*/user-guide/magento/magento-account.html*) has moved to [Adobe Experience League][372]
 82. **Your Login Credentials** (*/user-guide/getting-started/login-credentials.html*) has moved to [Adobe Experience League][408]
 
-## Marketing   {#marketing}
+### Marketing   {#marketing}
 
 1. **About Amazon Marketplace** (*/user-guide/sales-channels/asc/about-amazon-marketplace.html*) has moved to [Adobe Experience League][409]
 2. **About Amazon Sales Channel** (*/user-guide/sales-channels/asc/about-amazon-sales-channel.html*) has moved to [Adobe Experience League][410]
@@ -760,7 +762,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 265. **Wish Lists** (*/user-guide/marketing/wishlists.html*) has moved to [Adobe Experience League][658]
 266. **Workspace Controls** (*/user-guide/sales-channels/asc/workspace-controls.html*) has moved to [Adobe Experience League][659]
 
-## Operations   {#operations}
+### Operations   {#operations}
 
 1. **Action Logs** (*/user-guide/system/action-log.html*) has moved to [Adobe Experience League][660]
 2. **Action Logs Report** (*/user-guide/system/action-log-report.html*) has moved to [Adobe Experience League][661]
@@ -903,7 +905,7 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 139. **Warning Messages** (*/user-guide/tax/warning-messages.html*) has moved to [Adobe Experience League][792]
 140. **Working with CSV Files** (*/user-guide/system/data-csv.html*) has moved to [Adobe Experience League][793]
 
-## Sales   {#sales}
+### Sales   {#sales}
 
 1. **Address Search** (*/user-guide/sales/checkout-address-search.html*) has moved to [Adobe Experience League][794]
 2. **Allow Reorders** (*/user-guide/sales/reorders-allow.html*) has moved to [Adobe Experience League][795]
@@ -1957,3 +1959,448 @@ The following 1011 topics have been migrated from *https://docs.magento.com* and
 [913]: https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/usps.html
 [914]: https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/manage/voids.html
 [915]: https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/payments/offline/zero-subtotal-checkout.html
+
+## Business intelligence
+
+The following 223 Business Intelligence topics have been migrated and redirected.
+
+### Administrator   {#administrator}
+
+1. **Adding a New User** (*/mbi/administrator/user-management/create-user.html*) has moved to [Adobe Experience League][1]
+2. **Administrator** (*/mbi/administrator.html*) has moved to [Adobe Experience League][1]
+3. **Deleting a User** (*/mbi/administrator/user-management/delete-user.html*) has moved to [Adobe Experience League][2]
+4. **Displaying your dashboards on screens around the office** (*/mbi/administrator/account-management/display-dashboards-office.html*) has moved to [Adobe Experience League][3]
+5. **How do I update my email address or password?** (*/mbi/administrator/user-management/update-address-password.html*) has moved to [Adobe Experience League][1]
+6. **How many people can be on one Magento BI account?** (*/mbi/administrator/account-management/account-provision.html*) has moved to [Adobe Experience League][1]
+7. **Managing Users and Permissions** (*/mbi/administrator/user-management/user-management.html*) has moved to [Adobe Experience League][4]
+8. **Managing your account settings** (*/mbi/administrator/account-management/managing-account-settings.html*) has moved to [Adobe Experience League][5]
+9. **New Architecture** (*/mbi/administrator/account-management/new-architecture.html*) has moved to [Adobe Experience League][6]
+10. **Reset Password** (*/mbi/administrator/user-management/reset-password.html*) has moved to [Adobe Experience League][7]
+11. **Restricting Metric Access** (*/mbi/administrator/user-management/restrict-metric-access.html*) has moved to [Adobe Experience League][8]
+12. **Restricting access to your database** (*/mbi/administrator/account-management/restrict-db-access.html*) has moved to [Adobe Experience League][9]
+13. **Viewing the Billing Page** (*/mbi/administrator/user-management/view-billing.html*) has moved to [Adobe Experience League][1]
+
+### Best Practices   {#best-practices}
+
+1. **Best Practices** (*/mbi/best-practices.html*) has moved to [Adobe Experience League][10]
+2. **Best practices for naming reports and elements in Magento BI** (*/mbi/best-practices/naming-elements.html*) has moved to [Adobe Experience League][11]
+3. **Building a Dashboard for Investors** (*/mbi/best-practices/build-investor-dashboard.html*) has moved to [Adobe Experience League][12]
+4. **Checking the Update Cycle Status** (*/mbi/best-practices/check-update-cycle.html*) has moved to [Adobe Experience League][13]
+5. **Consolidating your Tables** (*/mbi/best-practices/consolidating-your-tables.html*) has moved to [Adobe Experience League][14]
+6. **Decluttering your Magento BI Account** (*/mbi/best-practices/declutter-account.html*) has moved to [Adobe Experience League][15]
+7. **Formatting and Importing Financial Data** (*/mbi/best-practices/format-import-financial-data.html*) has moved to [Adobe Experience League][16]
+8. **Modifying Your Database to Support Incremental Replication** (*/mbi/best-practices/mod-db-inc-replication.html*) has moved to [Adobe Experience League][17]
+9. **Optimizing Your Database for Analysis** (*/mbi/best-practices/opt-db-analysis.html*) has moved to [Adobe Experience League][18]
+10. **Optimizing Your SQL Queries** (*/mbi/best-practices/optimizing-your-sql-queries.html*) has moved to [Adobe Experience League][19]
+11. **Project Organization** (*/mbi/best-practices/project-org.html*) has moved to [Adobe Experience League][11]
+12. **Recommended Data Dimensions for Segmentation and Filtering** (*/mbi/best-practices/segment-filter.html*) has moved to [Adobe Experience League][20]
+13. **Reducing Your Update Cycle Time** (*/mbi/best-practices/reduce-update-cycle-time.html*) has moved to [Adobe Experience League][21]
+14. **Sharing Dashboards** (*/mbi/best-practices/share-dashboard-best-practice.html*) has moved to [Adobe Experience League][22]
+15. **UTM Tagging in Google Analytics** (*/mbi/best-practices/utm-tagging-google.html*) has moved to [Adobe Experience League][23]
+16. **Understanding your Magento BI Environment** (*/mbi/best-practices/understanding-magento.html*) has moved to [Adobe Experience League][24]
+17. **Working with Dashboards** (*/mbi/best-practices/work-dashboards.html*) has moved to [Adobe Experience League][10]
+18. **Working with Data** (*/mbi/best-practices/work-data.html*) has moved to [Adobe Experience League][10]
+
+### Data Analyst   {#data-analyst}
+
+1. **A tour of the Data Warehouse Manager** (*/mbi/data-analyst/data-warehouse-mgr/tour-dwm.html*) has moved to [Adobe Experience League][25]
+2. **Advanced Calculated Column Types** (*/mbi/data-analyst/data-warehouse-mgr/adv-calc-columns.html*) has moved to [Adobe Experience League][26]
+3. **Analyzing Customer Repurchasing Behavior** (*/mbi/data-analyst/analysis/repurchase-behavior.html*) has moved to [Adobe Experience League][27]
+4. **Analyzing Holiday Season Performance** (*/mbi/data-analyst/analysis/holiday-season-perf.html*) has moved to [Adobe Experience League][28]
+5. **Analyzing Inventory Levels** (*/mbi/data-analyst/analysis/analyze-inventory-level.html*) has moved to [Adobe Experience League][29]
+6. **Analyzing Repeat Probability Decay and Churn** (*/mbi/data-analyst/analysis/repeat-decay-churn.html*) has moved to [Adobe Experience League][30]
+7. **Analyzing Returned Orders** (*/mbi/data-analyst/analysis/returned-order-analysis.html*) has moved to [Adobe Experience League][31]
+8. **Analyzing Website Activity and Customer Conversion Rates** (*/mbi/data-analyst/analysis/web-act-cust-conversion.html*) has moved to [Adobe Experience League][32]
+9. **Analyzing coupon impact on acquiring and retaining customers** (*/mbi/data-analyst/analysis/coupon-impact.html*) has moved to [Adobe Experience League][33]
+10. **Analyzing coupon usage** (*/mbi/data-analyst/analysis/coupon-usage.html*) has moved to [Adobe Experience League][34]
+11. **Are SQL Report Builder queries case-sensitive?** (*/mbi/data-analyst/dev-reports/sql-rpt-bldr-case-sensitive.html*) has moved to [Adobe Experience League][35]
+12. **Are there any integrations I can't use with the SQL Report Builder?** (*/mbi/data-analyst/dev-reports/sql-rpt-bldr-intgrtns-limits.html*) has moved to [Adobe Experience League][35]
+13. **Auditing Google Adwords data** (*/mbi/data-analyst/importing-data/integrations/audit-google-adwords.html*) has moved to [Adobe Experience League][36]
+14. **Auditing Metrics Using the SQL Report Builder** (*/mbi/data-analyst/dev-reports/audit-metrics-sql.html*) has moved to [Adobe Experience League][37]
+15. **Auditing Zendesk data** (*/mbi/data-analyst/importing-data/integrations/audit-zendesk-data.html*) has moved to [Adobe Experience League][38]
+16. **Building Google ECommerce dimensions with order and customer data** (*/mbi/data-analyst/data-warehouse-mgr/bldg-google-ecomm-dim.html*) has moved to [Adobe Experience League][39]
+17. **Business Performance Analysis** (*/mbi/data-analyst/analysis/bus-perf-analysis.html*) has moved to [Adobe Experience League][40]
+18. **Calculated Column Types** (*/mbi/data-analyst/data-warehouse-mgr/calc-column-types.html*) has moved to [Adobe Experience League][41]
+19. **Campaign Analysis** (*/mbi/data-analyst/analysis/camp-analysis.html*) has moved to [Adobe Experience League][42]
+20. **Can I export the results of my query?** (*/mbi/data-analyst/dev-reports/export-query-results.html*) has moved to [Adobe Experience League][43]
+21. **Changing a metric's operational table** (*/mbi/data-analyst/data-warehouse-mgr/change-metric-op-table.html*) has moved to [Adobe Experience League][44]
+22. **Commerce Churn** (*/mbi/data-analyst/analysis/commerce-churn.html*) has moved to [Adobe Experience League][45]
+23. **Common Magento Tables** (*/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html*) has moved to [Adobe Experience League][46]
+24. **Common Magento Tables - customer\_entity** (*/mbi/data-analyst/data-warehouse-mgr/cust-ent-table.html*) has moved to [Adobe Experience League][47]
+25. **Common Magento Tables - quote** (*/mbi/data-analyst/data-warehouse-mgr/sales-flat-quote-table.html*) has moved to [Adobe Experience League][48]
+26. **Common Magento Tables - quote\_item** (*/mbi/data-analyst/data-warehouse-mgr/sales-flat-quote-item-table.html*) has moved to [Adobe Experience League][49]
+27. **Common Magento Tables - sales\_order** (*/mbi/data-analyst/data-warehouse-mgr/sales-flat-order-table.html*) has moved to [Adobe Experience League][50]
+28. **Common Magento Tables - sales\_order\_item** (*/mbi/data-analyst/data-warehouse-mgr/sales-flat-order-item-table.html*) has moved to [Adobe Experience League][51]
+29. **Configuring data rechecks** (*/mbi/data-analyst/data-warehouse-mgr/cfg-data-rechecks.html*) has moved to [Adobe Experience League][52]
+30. **Configuring replication methods** (*/mbi/data-analyst/data-warehouse-mgr/cfg-replication-methods.html*) has moved to [Adobe Experience League][53]
+31. **Connect Your Data** (*/mbi/data-analyst/importing-data/connecting-data/connecting-data.html*) has moved to [Adobe Experience League][54]
+32. **Connect Your MySQL Database to Magento BI** (*/mbi/data-analyst/importing-data/integrations/db-to-mbi.html*) has moved to [Adobe Experience League][55]
+33. **Connecting Adobe Analytics** (*/mbi/data-analyst/importing-data/integrations/adobe-analytics.html*) has moved to [Adobe Experience League][56]
+34. **Connecting Amazon RDS** (*/mbi/data-analyst/importing-data/integrations/amazon-rds.html*) has moved to [Adobe Experience League][57]
+35. **Connecting External Data Using an Integration** (*/mbi/data-analyst/importing-data/integrations/integrations.html*) has moved to [Adobe Experience League][58]
+36. **Connecting Facebook Ads** (*/mbi/data-analyst/importing-data/integrations/facebook-ads.html*) has moved to [Adobe Experience League][59]
+37. **Connecting Google Adwords** (*/mbi/data-analyst/importing-data/integrations/google-adwords.html*) has moved to [Adobe Experience League][60]
+38. **Connecting Google Analytics** (*/mbi/data-analyst/importing-data/integrations/google-analytics.html*) has moved to [Adobe Experience League][61]
+39. **Connecting Google Analytics Warehoused** (*/mbi/data-analyst/importing-data/integrations/google-analytics-warehoused.html*) has moved to [Adobe Experience League][62]
+40. **Connecting Google ECommerce** (*/mbi/data-analyst/importing-data/integrations/google-ecommerce.html*) has moved to [Adobe Experience League][63]
+41. **Connecting Magento** (*/mbi/data-analyst/importing-data/integrations/magento.html*) has moved to [Adobe Experience League][64]
+42. **Connecting Microsoft SQL Server** (*/mbi/data-analyst/importing-data/integrations/microsoft-sql-server.html*) has moved to [Adobe Experience League][65]
+43. **Connecting Mixpanel** (*/mbi/data-analyst/importing-data/integrations/mixpanel.html*) has moved to [Adobe Experience League][66]
+44. **Connecting MongoDB via SSH tunnel** (*/mbi/data-analyst/importing-data/integrations/mongodb-via-ssh-tunnel.html*) has moved to [Adobe Experience League][67]
+45. **Connecting MySQL via SSH tunnel** (*/mbi/data-analyst/importing-data/integrations/mysql-via-ssh-tunnel.html*) has moved to [Adobe Experience League][68]
+46. **Connecting MySQL via a direct connection** (*/mbi/data-analyst/importing-data/integrations/mysql-via-a-direct-connection.html*) has moved to [Adobe Experience League][69]
+47. **Connecting MySQL via cPanel** (*/mbi/data-analyst/importing-data/integrations/mysql-via-cpanel.html*) has moved to [Adobe Experience League][70]
+48. **Connecting PostgreSQL** (*/mbi/data-analyst/importing-data/integrations/postgresql.html*) has moved to [Adobe Experience League][71]
+49. **Connecting PrestaShop** (*/mbi/data-analyst/importing-data/integrations/prestashop.html*) has moved to [Adobe Experience League][72]
+50. **Connecting QuickBooks** (*/mbi/data-analyst/importing-data/integrations/quickbooks.html*) has moved to [Adobe Experience League][73]
+51. **Connecting Salesforce** (*/mbi/data-analyst/importing-data/integrations/salesforce.html*) has moved to [Adobe Experience League][74]
+52. **Connecting Spree** (*/mbi/data-analyst/importing-data/integrations/spree.html*) has moved to [Adobe Experience League][75]
+53. **Connecting Stripe** (*/mbi/data-analyst/importing-data/integrations/stripe.html*) has moved to [Adobe Experience League][76]
+54. **Connecting WooCommerce** (*/mbi/data-analyst/importing-data/integrations/woocommerce.html*) has moved to [Adobe Experience League][77]
+55. **Connecting Zendesk** (*/mbi/data-analyst/importing-data/integrations/zendesk.html*) has moved to [Adobe Experience League][78]
+56. **Connecting databases via a VPN** (*/mbi/data-analyst/importing-data/integrations/databases-via-a-vpn.html*) has moved to [Adobe Experience League][79]
+57. **Coupon Code Analysis** (*/mbi/data-analyst/analysis/coupon-code-analysis.html*) has moved to [Adobe Experience League][80]
+58. **Coupon Code Analysis (basic)** (*/mbi/data-analyst/analysis/ess-coupon-code-analysis.html*) has moved to [Adobe Experience League][42]
+59. **Create Google Analytics charts (with regex syntax help)** (*/mbi/data-analyst/dev-reports/google-analytics-charts-regex.html*) has moved to [Adobe Experience League][81]
+60. **Creating a qualitative cohort analysis** (*/mbi/data-analyst/dev-reports/create-qual-cohort-analysis.html*) has moved to [Adobe Experience League][82]
+61. **Creating and Using Data Warehouse Views** (*/mbi/data-analyst/data-warehouse-mgr/create-dw-views.html*) has moved to [Adobe Experience League][83]
+62. **Creating and Using a SQL Calculated Column** (*/mbi/data-analyst/data-warehouse-mgr/create-sql-calc-column.html*) has moved to [Adobe Experience League][84]
+63. **Creating calculated columns** (*/mbi/data-analyst/data-warehouse-mgr/creating-calculated-columns.html*) has moved to [Adobe Experience League][85]
+64. **Creating paths for calculated columns** (*/mbi/data-analyst/data-warehouse-mgr/create-paths-calc-columns.html*) has moved to [Adobe Experience League][86]
+65. **Customer Analysis** (*/mbi/data-analyst/analysis/cust-analysis.html*) has moved to [Adobe Experience League][45]
+66. **Data Analyst** (*/mbi/data-analyst.html*) has moved to [Adobe Experience League][87]
+67. **Data Validation in Mixpanel** (*/mbi/data-analyst/importing-data/integrations/mixpanel-data-valid.html*) has moved to [Adobe Experience League][88]
+68. **Data and Updates FAQ** (*/mbi/data-analyst/data-warehouse-mgr/data-and-updates-faq.html*) has moved to [Adobe Experience League][89]
+69. **Data migration services** (*/mbi/data-analyst/importing-data/connecting-data/data-migration-services.html*) has moved to [Adobe Experience League][90]
+70. **Defining commerce churn \[an Expert Analysis\]** (*/mbi/data-analyst/analysis/define-cust-churn.html*) has moved to [Adobe Experience League][91]
+71. **Defining customer concentration** (*/mbi/data-analyst/analysis/define-cust-concent.html*) has moved to [Adobe Experience League][92]
+72. **Deleting calculated column paths** (*/mbi/data-analyst/data-warehouse-mgr/delete-calc-column-paths.html*) has moved to [Adobe Experience League][86]
+73. **Differences in Columns Between SQL and Data Warehouse Manager** (*/mbi/data-analyst/dev-reports/columns-sql-dwm.html*) has moved to [Adobe Experience League][93]
+74. **Do I have to rebuild my queries after every update cycle?** (*/mbi/data-analyst/dev-reports/rebuild-queries-after-update.html*) has moved to [Adobe Experience League][35]
+75. **Does deleting a SQL report/query also delete the underlying columns from my Data Warehouse?** (*/mbi/data-analyst/dev-reports/delete-sql-query-delete-columns.html*) has moved to [Adobe Experience
+    League][35]
+76. **Does your store accept guest orders?** (*/mbi/data-analyst/data-warehouse-mgr/guest-orders.html*) has moved to [Adobe Experience League][94]
+77. **Enterprise\_Rma Table** (*/mbi/data-analyst/data-warehouse-mgr/enter-rma-table.html*) has moved to [Adobe Experience League][95]
+78. **Enterprise\_Rma\_Item\_Entity Table** (*/mbi/data-analyst/data-warehouse-mgr/enter-rma-entity-item.html*) has moved to [Adobe Experience League][96]
+79. **Expected Adobe Analytics data** (*/mbi/data-analyst/importing-data/integrations/adobe-analytics-data.html*) has moved to [Adobe Experience League][97]
+80. **Expected Facebook Ads data** (*/mbi/data-analyst/importing-data/integrations/facebook-ads-data.html*) has moved to [Adobe Experience League][98]
+81. **Expected Google Adwords data** (*/mbi/data-analyst/importing-data/integrations/google-adwords-data.html*) has moved to [Adobe Experience League][99]
+82. **Expected Google Analytics Warehoused Data** (*/mbi/data-analyst/importing-data/integrations/google-analytics-warehoused-data.html*) has moved to [Adobe Experience League][100]
+83. **Expected Google Analytics data** (*/mbi/data-analyst/importing-data/integrations/google-analytics-data.html*) has moved to [Adobe Experience League][101]
+84. **Expected Google ECommerce data** (*/mbi/data-analyst/importing-data/integrations/google-ecommerce-data.html*) has moved to [Adobe Experience League][102]
+85. **Expected Lifetime Value (LTV) Analysis (basic)** (*/mbi/data-analyst/analysis/ess-expected-ltv.html*) has moved to [Adobe Experience League][103]
+86. **Expected Lifetime Value (LTV) Analysis for Pro** (*/mbi/data-analyst/analysis/expected-customer-ltv.html*) has moved to [Adobe Experience League][104]
+87. **Expected Magento data** (*/mbi/data-analyst/importing-data/integrations/magento-data.html*) has moved to [Adobe Experience League][105]
+88. **Expected Mixpanel data** (*/mbi/data-analyst/importing-data/integrations/mixpanel-data.html*) has moved to [Adobe Experience League][106]
+89. **Expected QuickBooks data** (*/mbi/data-analyst/importing-data/integrations/quickbooks-data.html*) has moved to [Adobe Experience League][107]
+90. **Expected Salesforce data** (*/mbi/data-analyst/importing-data/integrations/salesforce-data.html*) has moved to [Adobe Experience League][108]
+91. **Expected Spree data** (*/mbi/data-analyst/importing-data/integrations/spree-data.html*) has moved to [Adobe Experience League][109]
+92. **Expected Stripe data** (*/mbi/data-analyst/importing-data/integrations/stripe-data.html*) has moved to [Adobe Experience League][110]
+93. **Expected Zendesk data** (*/mbi/data-analyst/importing-data/integrations/exp-zendesk-data.html*) has moved to [Adobe Experience League][111]
+94. **Explore special filter operators** (*/mbi/data-analyst/dev-reports/explr-special-filter-ops.html*) has moved to [Adobe Experience League][112]
+95. **Forecasting** (*/mbi/data-analyst/analysis/forecasting.html*) has moved to [Adobe Experience League][113]
+96. **Formatting and importing eCommerce data** (*/mbi/data-analyst/importing-data/connecting-data/format-import-ecom-data.html*) has moved to [Adobe Experience League][114]
+97. **Free shipping threshold** (*/mbi/data-analyst/analysis/free-ship-thresh.html*) has moved to [Adobe Experience League][115]
+98. **Google Analytics - Track User Acquisition Source Data Overview** (*/mbi/data-analyst/analysis/google-track-user-acq.html*) has moved to [Adobe Experience League][116]
+99. **Google Analytics - Track user device and browser data in your database** (*/mbi/data-analyst/analysis/track-usr-dev-browser.html*) has moved to [Adobe Experience League][117]
+100. **Help desk reporting for Zendesk** (*/mbi/data-analyst/importing-data/integrations/help-desk-zendesk.html*) has moved to [Adobe Experience League][118]
+101. **How Does Google Analytics UTM Attribution Work?** (*/mbi/data-analyst/analysis/utm-attributes.html*) has moved to [Adobe Experience League][119]
+102. **How Magento Stores Data** (*/mbi/data-analyst/data-warehouse-mgr/mage-store-data.html*) has moved to [Adobe Experience League][120]
+103. **How do I use the SQL Report Builder?** (*/mbi/data-analyst/dev-reports/using-sql-rpt-bldr.html*) has moved to [Adobe Experience League][35]
+104. **Identifying Your Most Valuable Marketing Sources and Channels** (*/mbi/data-analyst/analysis/most-value-source-channel.html*) has moved to [Adobe Experience League][121]
+105. **Importing Bing Ad Spend data** (*/mbi/data-analyst/importing-data/connecting-data/import-bing-ad-data.html*) has moved to [Adobe Experience League][122]
+106. **Importing CJ Affiliate (Commission Junction) Marketing Data** (*/mbi/data-analyst/importing-data/connecting-data/import-cj-market-data.html*) has moved to [Adobe Experience League][123]
+107. **Importing Linkshare data** (*/mbi/data-analyst/importing-data/connecting-data/import-linkshare-data.html*) has moved to [Adobe Experience League][124]
+108. **Importing MailChimp data** (*/mbi/data-analyst/importing-data/connecting-data/import-mailchimp-data.html*) has moved to [Adobe Experience League][125]
+109. **Importing offline / other ad spend data** (*/mbi/data-analyst/importing-data/connecting-data/import-offline-ad-data.html*) has moved to [Adobe Experience League][125]
+110. **Increasing ROI on your advertising campaigns** (*/mbi/data-analyst/analysis/roi-ad-camp.html*) has moved to [Adobe Experience League][126]
+111. **Magento Entity Relationship Diagrams** (*/mbi/data-analyst/data-warehouse-mgr/entity-rel-diag.html*) has moved to [Adobe Experience League][127]
+112. **Managing data dimensions in metrics** (*/mbi/data-analyst/data-warehouse-mgr/manage-data-dimensions-metrics.html*) has moved to [Adobe Experience League][128]
+113. **Marketing ROI** (*/mbi/data-analyst/analysis/marketing-roi.html*) has moved to [Adobe Experience League][129]
+114. **MongoDB data modeling guide** (*/mbi/data-analyst/data-warehouse-mgr/mongodb-data-modeling.html*) has moved to [Adobe Experience League][130]
+115. **Ordering data using the Show Top/Bottom feature** (*/mbi/data-analyst/dev-reports/order-data-top-bottom-feat.html*) has moved to [Adobe Experience League][131]
+116. **Recency, Frequency, Monetary (RFM) Analysis** (*/mbi/data-analyst/analysis/rfm-analysis.html*) has moved to [Adobe Experience League][40]
+117. **Replicating Google Analytics channels using acquisition sources** (*/mbi/data-analyst/data-warehouse-mgr/rep-google-analytics-channels.html*) has moved to [Adobe Experience League][132]
+118. **Reporting on a retail calendar** (*/mbi/data-analyst/analysis/report-retail-calendar.html*) has moved to [Adobe Experience League][133]
+119. **Standardizing data with mapping tables** (*/mbi/data-analyst/data-warehouse-mgr/stndrd-data-map-tables.html*) has moved to [Adobe Experience League][134]
+120. **Tracking Goals Against Actual Metrics** (*/mbi/data-analyst/analysis/track-goals-against-metrics.html*) has moved to [Adobe Experience League][40]
+121. **Translating SQL queries into Magento BI reports** (*/mbi/data-analyst/dev-reports/sql-queries-reports.html*) has moved to [Adobe Experience League][135]
+122. **Understanding Results Between Database and SQL Editor** (*/mbi/data-analyst/dev-reports/understand-sql-results.html*) has moved to [Adobe Experience League][35]
+123. **Understanding Results Between Database and SQL Editor** (*/mbi/data-analyst/importing-data/integrations/last-success-update.html*) has moved to [Adobe Experience League][136]
+124. **Understanding and Evaluating Table Relationships** (*/mbi/data-analyst/data-warehouse-mgr/table-relationships.html*) has moved to [Adobe Experience League][137]
+125. **Understanding and building basic analytics** (*/mbi/data-analyst/analysis/basic-analytics.html*) has moved to [Adobe Experience League][138]
+126. **Understanding the Repeat Order Probability Report** (*/mbi/data-analyst/dev-reports/repeat-order-probability.html*) has moved to [Adobe Experience League][139]
+127. **Using Dashboard Wide Filtering** (*/mbi/data-analyst/data-warehouse-mgr/using-dshbrd-wide-filter-date-ranges.html*) has moved to [Adobe Experience League][140]
+128. **Using formulas in the Report Builder** (*/mbi/data-analyst/dev-reports/formulas-in-rpt-bldr.html*) has moved to [Adobe Experience League][141]
+129. **Using the Cohort Report Builder** (*/mbi/data-analyst/dev-reports/cohort-rpt-bldr.html*) has moved to [Adobe Experience League][142]
+130. **Using the Cohort Report Builder for Non-Date Based Cohorts** (*/mbi/data-analyst/dev-reports/cohort-rpt-non-date-based.html*) has moved to [Adobe Experience League][143]
+131. **Using the Date Difference Calculated Column** (*/mbi/data-analyst/data-warehouse-mgr/using-date-diff-calc-column-.html*) has moved to [Adobe Experience League][144]
+132. **Using the Event Number Calculated Column** (*/mbi/data-analyst/data-warehouse-mgr/using-event-num-calc-column.html*) has moved to [Adobe Experience League][145]
+133. **Using the File Uploader** (*/mbi/data-analyst/importing-data/connecting-data/using-file-uploader.html*) has moved to [Adobe Experience League][146]
+134. **Using the SQL Report Builder** (*/mbi/data-analyst/dev-reports/sql-rpt-bldr.html*) has moved to [Adobe Experience League][35]
+135. **Using the Sequential Comparison Calculated Column** (*/mbi/data-analyst/data-warehouse-mgr/using-seq-comp-calc-column-.html*) has moved to [Adobe Experience League][147]
+136. **What SQL functions are supported?** (*/mbi/data-analyst/dev-reports/supp-sql-func.html*) has moved to [Adobe Experience League][35]
+137. **What's SQL?** (*/mbi/data-analyst/dev-reports/what-s-sql-.html*) has moved to [Adobe Experience League][35]
+138. **What's the SQL Report Builder?** (*/mbi/data-analyst/dev-reports/what-is-sql-rprt-bldr-.html*) has moved to [Adobe Experience League][35]
+139. **What's the difference between the Report Builder and the SQL Report Builder?** (*/mbi/data-analyst/dev-reports/diff-rpt-bldr-sql-rprt-bldr-.html*) has moved to [Adobe Experience League][35]
+140. **Who can use the SQL Report Builder?** (*/mbi/data-analyst/dev-reports/user-sql-rprt-bldr-.html*) has moved to [Adobe Experience League][35]
+141. **Why does the time to first purchase report slope downward?** (*/mbi/data-analyst/dev-reports/time-first-purchase-slope-dwnwrd.html*) has moved to [Adobe Experience League][148]
+142. **Why is the Lifetime Revenue Cohort Analysis Important?** (*/mbi/data-analyst/dev-reports/lifetime-rev-cohort-analysis.html*) has moved to [Adobe Experience League][149]
+143. **Year-over-year, month-over-month, week-over-week** (*/mbi/data-analyst/analysis/year-month-week.html*) has moved to [Adobe Experience League][150]
+
+### Data User   {#data-user}
+
+1. **Accessing shared dashboards** (*/mbi/data-user/dashboards/access-shared-dashboard.html*) has moved to [Adobe Experience League][151]
+2. **Adding Charts to Dashboards** (*/mbi/data-user/dashboards/add-charts-dashboard.html*) has moved to [Adobe Experience League][152]
+3. **Bulk-editing Charts in Dashboards** (*/mbi/data-user/dashboards/bulk-edit-dashboard.html*) has moved to [Adobe Experience League][153]
+4. **Changing access to shared dashboards** (*/mbi/data-user/dashboards/change-access-dashboard.html*) has moved to [Adobe Experience League][154]
+5. **Cloning dashboards** (*/mbi/data-user/dashboards/clone-dashboard.html*) has moved to [Adobe Experience League][155]
+6. **Create a copy of a report** (*/mbi/data-user/reports/copy-report.html*) has moved to [Adobe Experience League][156]
+7. **Creating automated email summaries** (*/mbi/data-user/export-data/email-summaries.html*) has moved to [Adobe Experience League][157]
+8. **Creating filter sets for metrics** (*/mbi/data-user/reports/ess-manage-data-filters.html*) has moved to [Adobe Experience League][158]
+9. **Creating metrics** (*/mbi/data-user/reports/ess-manage-data-metrics.html*) has moved to [Adobe Experience League][159]
+10. **Dashboards** (*/mbi/data-user/dashboards/ess-dashboards.html*) has moved to [Adobe Experience League][160]
+11. **Data User** (*/mbi/data-user.html*) has moved to [Adobe Experience League][161]
+12. **Deleting Dashboards** (*/mbi/data-user/dashboards/deleting-dashboard.html*) has moved to [Adobe Experience League][162]
+13. **Exporting Chart Data** (*/mbi/data-user/export-data/exp-chart-dash.html*) has moved to [Adobe Experience League][163]
+14. **Filters** (*/mbi/data-user/reports/ess-rpt-build-filters.html*) has moved to [Adobe Experience League][164]
+15. **Formulas** (*/mbi/data-user/reports/ess-rpt-build-formulas.html*) has moved to [Adobe Experience League][165]
+16. **How can I tell what a chart is analyzing?** (*/mbi/data-user/reports/what-is-chart-analyzing.html*) has moved to [Adobe Experience League][166]
+17. **Importing charts from another user** (*/mbi/data-user/dashboards/import-charts-other-user.html*) has moved to [Adobe Experience League][167]
+18. **Included Dashboards** (*/mbi/data-user/dashboards/ootb-dashboards.html*) has moved to [Adobe Experience League][168]
+19. **Leaving (unsharing) a dashboard** (*/mbi/data-user/dashboards/leave-dashboard.html*) has moved to [Adobe Experience League][169]
+20. **Manage Data** (*/mbi/data-user/reports/ess-manage-data.html*) has moved to [Adobe Experience League][170]
+21. **Managing Dashboards** (*/mbi/data-user/dashboards/managing-dashboard.html*) has moved to [Adobe Experience League][171]
+22. **Out-of-the-Box Dashboards** (*/mbi/data-user/dashboards/dashboards-pro.html*) has moved to [Adobe Experience League][172]
+23. **Permanently deleting a chart** (*/mbi/data-user/dashboards/delete-chart.html*) has moved to [Adobe Experience League][173]
+24. **Removing Charts from Dashboards** (*/mbi/data-user/dashboards/remove-charts-dashboard.html*) has moved to [Adobe Experience League][174]
+25. **Renaming Dashboards** (*/mbi/data-user/dashboards/renaming-dashboard.html*) has moved to [Adobe Experience League][175]
+26. **Resizing and Rearranging Charts in a Dashboard** (*/mbi/data-user/dashboards/resize-charts-dashboard.html*) has moved to [Adobe Experience League][176]
+27. **Searching for Dashboards** (*/mbi/data-user/dashboards/search-dashboard.html*) has moved to [Adobe Experience League][177]
+28. **Setting a Default Dashboard** (*/mbi/data-user/dashboards/set-default-dashboard.html*) has moved to [Adobe Experience League][178]
+29. **Sharing Data** (*/mbi/data-user/export-data/share-data.html*) has moved to [Adobe Experience League][179]
+30. **Sharing dashboards organization-wide** (*/mbi/data-user/dashboards/share-dashboard-with-org.html*) has moved to [Adobe Experience League][180]
+31. **Sharing dashboards with other users** (*/mbi/data-user/dashboards/share-dashboard-with-users.html*) has moved to [Adobe Experience League][181]
+32. **Using Dashboard Groups** (*/mbi/data-user/dashboards/using-dashboard-groups.html*) has moved to [Adobe Experience League][182]
+33. **Using Reports** (*/mbi/data-user/reports/rpt-fundamentals.html*) has moved to [Adobe Experience League][183]
+34. **Visual Report Builder** (*/mbi/data-user/reports/ess-rpt-build-visual.html*) has moved to [Adobe Experience League][184]
+35. **Visualization Options in the Visual Report Builder** (*/mbi/data-user/reports/visual-options.html*) has moved to [Adobe Experience League][185]
+36. **Which Report Builder should I use?** (*/mbi/data-user/reports/report-builder-options.html*) has moved to [Adobe Experience League][186]
+
+### Getting Started   {#getting-started}
+
+1. **Activating your Magento BI Account for Cloud Starter Subscriptions** (*/mbi/getting-started/cloud-activation.html*) has moved to [Adobe Experience League][187]
+2. **Activating your Magento BI Account for On-Premise Subscriptions** (*/mbi/getting-started/onpremise-activation.html*) has moved to [Adobe Experience League][188]
+3. **Getting Help with Magento BI** (*/mbi/getting-started/support.html*) has moved to [Adobe Experience League][189]
+4. **Getting Started** (*/mbi/getting-started.html*) has moved to [Adobe Experience League][190]
+5. **Introduction** (*/mbi/getting-started/getting-started.html*) has moved to [Adobe Experience League][190]
+6. **Magento BI Essentials vs. Pro** (*/mbi/getting-started/essentials-vs-pro.html*) has moved to [Adobe Experience League][191]
+7. **Onboarding Questions** (*/mbi/getting-started/onboarding.html*) has moved to [Adobe Experience League][192]
+8. **Sign in to your MBI Account** (*/mbi/getting-started/sign-in.html*) has moved to [Adobe Experience League][189]
+
+### Tutorials   {#tutorials}
+
+1. **Creating Visualizations from SQL Queries** (*/mbi/tutorials/create-visuals-from-sql.html*) has moved to [Adobe Experience League][193]
+2. **Exporting Raw Data** (*/mbi/tutorials/export-raw-data.html*) has moved to [Adobe Experience League][194]
+3. **Tutorials** (*/mbi/tutorials.html*) has moved to [Adobe Experience League][195]
+4. **Using Time Options in the Visual Report Builder** (*/mbi/tutorials/time-options-visual-rpt-bldr.html*) has moved to [Adobe Experience League][196]
+5. **Using the Visual Report Builder** (*/mbi/tutorials/using-visual-report-builder.html*) has moved to [Adobe Experience League][195]
+
+
+
+[1]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/user-mgmt/create-user.html?lang=en
+[2]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/user-mgmt/delete-user.html?lang=en
+[3]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/acct-mgmt/display-dashboards-office.html?lang=en
+[4]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/user-mgmt/user-management.html?lang=en
+[5]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/acct-mgmt/managing-account-settings.html?lang=en
+[6]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/acct-mgmt/new-architecture.html?lang=en
+[7]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/user-mgmt/reset-password.html?lang=en
+[8]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/user-mgmt/restrict-metric-access.html?lang=en
+[9]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/administrator/acct-mgmt/restrict-db-access.html?lang=en
+[10]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/work-data.html?lang=en
+[11]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/project/naming-elements.html?lang=en
+[12]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/working-dashboards/build-investor-dashboard.html?lang=en
+[13]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/check-update-cycle.html?lang=en
+[14]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/project/consolidating-your-tables.html?lang=en
+[15]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/project/declutter-account.html?lang=en
+[16]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/format-import-financial-data.html?lang=en
+[17]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/mod-db-inc-replication.html?lang=en
+[18]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=en
+[19]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/optimizing-your-sql-queries.html?lang=en
+[20]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en
+[21]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/reduce-update-cycle-time.html?lang=en
+[22]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/working-dashboards/share-dashboard-best-practice.html?lang=en
+[23]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html?lang=en
+[24]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/understanding-magento.html?lang=en
+[25]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=en
+[26]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/adv-calc-columns.html?lang=en
+[27]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/repurchase-behavior.html?lang=en
+[28]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/holiday-season-perf.html?lang=en
+[29]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/analyze-inventory-level.html?lang=en
+[30]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/repeat-decay-churn.html?lang=en
+[31]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/returned-order-analysis.html?lang=en
+[32]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/web-act-cust-conversion.html?lang=en
+[33]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/coupon-impact.html?lang=en
+[34]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/coupon-usage.html?lang=en
+[35]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=en
+[36]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/audit-google-adwords.html?lang=en
+[37]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/audit-metrics-sql.html?lang=en
+[38]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/audit-zendesk-data.html?lang=en
+[39]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/bldg-google-ecomm-dim.html?lang=en
+[40]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html?lang=en
+[41]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/calc-column-types.html?lang=en
+[42]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html?lang=en
+[43]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/export-query-results.html?lang=en
+[44]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/change-metric-op-table.html?lang=en
+[45]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/commerce-churn.html?lang=en
+[46]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/common-mage-tables.html?lang=en
+[47]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/cust-ent-table.html?lang=en
+[48]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html?lang=en
+[49]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-item-table.html?lang=en
+[50]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-order-table.html?lang=en
+[51]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-order-item-table.html?lang=en
+[52]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/cfg-data-rechecks.html?lang=en
+[53]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/cfg-replication-methods.html?lang=en
+[54]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=en
+[55]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/db-to-mbi.html?lang=en
+[56]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/adobe-analytics.html?lang=en
+[57]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/amazon-rds.html?lang=en
+[58]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/integrations.html?lang=en
+[59]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/facebook-ads.html?lang=en
+[60]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-adwords.html?lang=en
+[61]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-analytics.html?lang=en
+[62]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-analytics-warehoused.html?lang=en
+[63]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-ecommerce.html?lang=en
+[64]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/magento.html?lang=en
+[65]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/microsoft-sql-server.html?lang=en
+[66]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/mixpanel.html?lang=en
+[67]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/mongodb-via-ssh-tunnel.html?lang=en
+[68]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/mysql-via-ssh-tunnel.html?lang=en
+[69]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/mysql-via-a-direct-connection.html?lang=en
+[70]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/mysql-via-cpanel.html?lang=en
+[71]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/postgresql.html?lang=en
+[72]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/prestashop.html?lang=en
+[73]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/quickbooks.html?lang=en
+[74]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/salesforce.html?lang=en
+[75]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/spree.html?lang=en
+[76]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/stripe.html?lang=en
+[77]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/woocommerce.html?lang=en
+[78]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/zendesk.html?lang=en
+[79]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/databases-via-a-vpn.html?lang=en
+[80]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/coupon-code-analysis.html?lang=en
+[81]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/google-analytics-charts-regex.html?lang=en
+[82]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=en
+[83]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/create-dw-views.html?lang=en
+[84]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/create-sql-calc-column.html?lang=en
+[85]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/creating-calculated-columns.html?lang=en
+[86]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/create-paths-calc-columns.html?lang=en
+[87]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/data-analyst.html?lang=en
+[88]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/mixpanel-data-valid.html?lang=en
+[89]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/data-and-updates-faq.html?lang=en
+[90]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/data-migration-services.html?lang=en
+[91]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/define-cust-churn.html?lang=en
+[92]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/define-cust-concent.html?lang=en
+[93]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/columns-sql-dwm.html?lang=en
+[94]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/guest-orders.html?lang=en
+[95]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/enter-rma-table.html?lang=en
+[96]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/enter-rma-entity-item.html?lang=en
+[97]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/adobe-analytics-data.html?lang=en
+[98]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/facebook-ads-data.html?lang=en
+[99]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-adwords-data.html?lang=en
+[100]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-analytics-warehoused-data.html?lang=en
+[101]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-analytics-data.html?lang=en
+[102]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/google-ecommerce-data.html?lang=en
+[103]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/ess-expected-ltv.html?lang=en
+[104]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/expected-customer-ltv.html?lang=en
+[105]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/integration/magento-data.html?lang=en
+[106]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/mixpanel-data.html?lang=en
+[107]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/quickbooks-data.html?lang=en
+[108]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/salesforce-data.html?lang=en
+[109]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/spree-data.html?lang=en
+[110]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/stripe-data.html?lang=en
+[111]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/exp-zendesk-data.html?lang=en
+[112]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/explr-special-filter-ops.html?lang=en
+[113]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/forecasting/forecasting.html?lang=en
+[114]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/format-import-ecom-data.html?lang=en
+[115]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/free-ship-thresh.html?lang=en
+[116]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/google-track-user-acq.html?lang=en
+[117]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/track-usr-dev-browser.html?lang=en
+[118]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/help-desk-zendesk.html?lang=en
+[119]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/utm-attributes.html?lang=en
+[120]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/mage-store-data.html?lang=en
+[121]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/most-value-source-channel.html?lang=en
+[122]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/import-bing-ad-data.html?lang=en
+[123]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/import-cj-market-data.html?lang=en
+[124]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/import-linkshare-data.html?lang=en
+[125]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/import-mailchimp-data.html?lang=en
+[126]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/roi-ad-camp.html?lang=en
+[127]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/entity-rel-diag.html?lang=en
+[128]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/manage-data-dimensions-metrics.html?lang=en
+[129]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html?lang=en
+[130]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/mongodb-data-modeling.html?lang=en
+[131]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/order-data-top-bottom-feat.html?lang=en
+[132]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/rep-google-analytics-channels.html?lang=en
+[133]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/report-retail-calendar.html?lang=en
+[134]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/stndrd-data-map-tables.html?lang=en
+[135]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/sql-queries-reports.html?lang=en
+[136]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/saas/last-success-update.html?lang=en
+[137]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/table-relationships.html?lang=en
+[138]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/basic-analytics.html?lang=en
+[139]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/repeat-order-probability.html?lang=en
+[140]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/using-dshbrd-wide-filter-date-ranges.html?lang=en
+[141]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/formulas-in-rpt-bldr.html?lang=en
+[142]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=en
+[143]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-non-date-based.html?lang=en
+[144]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/using-date-diff-calc-column-.html?lang=en
+[145]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/using-event-num-calc-column.html?lang=en
+[146]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/using-file-uploader.html?lang=en
+[147]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/using-seq-comp-calc-column-.html?lang=en
+[148]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/time-first-purchase-slope-dwnwrd.html?lang=en
+[149]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/lifetime-rev-cohort-analysis.html?lang=en
+[150]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/performance/year-month-week.html?lang=en
+[151]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/access-shared-dashboard.html?lang=en
+[152]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/add-charts-dashboard.html?lang=en
+[153]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/bulk-edit-dashboard.html?lang=en
+[154]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/change-access-dashboard.html?lang=en
+[155]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/clone-dashboard.html?lang=en
+[156]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/copy-report.html?lang=en
+[157]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html?lang=en
+[158]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=en
+[159]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html?lang=en
+[160]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=en
+[161]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/data-user.html?lang=en
+[162]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/deleting-dashboard.html?lang=en
+[163]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=en
+[164]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-filters.html?lang=en
+[165]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-formulas.html?lang=en
+[166]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/what-is-chart-analyzing.html?lang=en
+[167]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/import-charts-other-user.html?lang=en
+[168]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ootb-dashboards.html?lang=en
+[169]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/leave-dashboard.html?lang=en
+[170]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data.html?lang=en
+[171]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/managing-dashboard.html?lang=en
+[172]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html?lang=en
+[173]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/delete-chart.html?lang=en
+[174]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/remove-charts-dashboard.html?lang=en
+[175]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/renaming-dashboard.html?lang=en
+[176]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/resize-charts-dashboard.html?lang=en
+[177]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/search-dashboard.html?lang=en
+[178]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/set-default-dashboard.html?lang=en
+[179]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/share-data.html?lang=en
+[180]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-org.html?lang=en
+[181]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html?lang=en
+[182]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html?lang=en
+[183]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/rpt-fundamentals.html?lang=en
+[184]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html?lang=en
+[185]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/visual-options.html?lang=en
+[186]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html?lang=en
+[187]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/start/cloud-activation.html?lang=en
+[188]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/start/onpremise-activation.html?lang=en
+[189]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/start/sign-in.html?lang=en
+[190]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=en
+[191]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/start/essentials-vs-pro.html?lang=en
+[192]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/start/onboarding.html?lang=en
+[193]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=en
+[194]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/export-raw-data.html?lang=en
+[195]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/using-visual-report-builder.html?lang=en
+[196]: https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/time-options-visual-rpt-bldr.html?lang=en
